@@ -1,0 +1,7 @@
+.env
+test_slack.py
+soar_venv/
+__pycache__/
+*.pyc
+logs/incidents.db
+.DS_Store

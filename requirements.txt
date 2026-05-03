@@ -1,0 +1,10 @@
+scikit-learn
+pandas
+numpy
+requests
+scapy
+streamlit
+plotly
+sqlite-utils
+python-dotenv
+APScheduler
